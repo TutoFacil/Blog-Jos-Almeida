@@ -1,0 +1,102 @@
+* {
+    margin: auto; 
+    color: white;
+    font-family: sans-serif;
+    font-family: 'Poiret One', 'Open Sans', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+    }
+
+    body {
+        background-color: #222;
+    }
+
+    
+    #menu {
+        padding: 10px;
+        background-color: gray;
+    
+    }
+    
+    #menu ul li a {
+        padding: 10px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-decoration: none;
+    
+    }
+    
+    #menu ul {
+        text-align: center;
+        color: black;
+        list-style: none;
+        padding: 0px;
+    }
+    
+    #menu ul li {
+        color: black;
+        display: inline-block;
+    }
+    
+    #menu ul li a:hover {
+        transition: all 1000ms ease;
+        color: black;
+        background-color: rgb(211, 211, 211);
+        text-decoration: underline;
+    }
+    
+    #favicon-white:hover {
+    border-image: 10px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    #bienvenida {
+        text-align: center;
+        font-size: 300%;
+    }
+    
+    #articulos {
+        margin: 2%;
+        text-decoration: underline;
+        font-size: 300%;
+    }
+    
+    #articulos:hover {
+        transition: all 1000ms ease;
+    color: rgb(154, 154, 255);
+    }
+
+    article ul li a {
+        margin: 0%;
+        font-size: 200%;
+        text-decoration: none;
+    }
+    
+    article ul li a:hover    {
+    color: rgb(154, 154, 255);
+    text-decoration: underline;
+    transition: all 1000ms ease;
+    }
+    
+    ul > li:hover {
+        color: rgb(154, 154, 255);
+    }
+    #titulo {
+        color:antiquewhite;
+        font-size: 500%;
+        text-align: center;
+    }
